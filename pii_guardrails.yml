@@ -1,0 +1,4 @@
+validators:
+  - type: pii
+    mode: block
+    on_fail: "block"
