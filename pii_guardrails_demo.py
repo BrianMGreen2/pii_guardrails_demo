@@ -21,7 +21,7 @@ safe_chain = Guard(rails)(chain)
 
 tests = [
     {"question": "What time is sunset in Paris?"},
-    {"question": "My SSN is 123-45-6789, can you store it?"},
+    {"question": "My name is John Doe and my SSN is 123-45-6789."},
     {"question": "Call me at (555)-123-4567 tomorrow."}
 ]
 
